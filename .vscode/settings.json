@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Global",
+            "database": "${workspaceFolder:Unknown-REST-to-SQL}/Global.db"
+        }
+    ]
+}
